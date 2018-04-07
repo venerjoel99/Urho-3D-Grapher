@@ -1,0 +1,29 @@
+[Sat Apr  7 18:14:31 2018] INFO: Opened log file Urho3D.log
+[Sat Apr  7 18:14:31 2018] INFO: Created 1 worker thread
+[Sat Apr  7 18:14:31 2018] INFO: Added resource path C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/bin/Data/
+[Sat Apr  7 18:14:31 2018] INFO: Added resource path C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/bin/CoreData/
+[Sat Apr  7 18:14:31 2018] INFO: Created Direct3D9 device
+[Sat Apr  7 18:14:31 2018] INFO: Set screen mode 1280x720 windowed monitor 0 resizable
+[Sat Apr  7 18:14:31 2018] INFO: Initialized input
+[Sat Apr  7 18:14:31 2018] INFO: Initialized user interface
+[Sat Apr  7 18:14:31 2018] INFO: Initialized renderer
+[Sat Apr  7 18:14:31 2018] ERROR: Could not initialize audio output
+[Sat Apr  7 18:14:31 2018] INFO: Initialized engine
+[Sat Apr  7 18:14:33 2018] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+152 frames in 1.0046 seconds = 151.29 fps
+[Sat Apr  7 18:14:34 2018] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+165 frames in 1.0025 seconds = 164.58 fps
+[Sat Apr  7 18:14:35 2018] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+178 frames in 1.0032 seconds = 177.42 fps
+[Sat Apr  7 18:14:36 2018] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+172 frames in 1.0045 seconds = 171.22 fps
+[Sat Apr  7 18:14:37 2018] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+186 frames in 1.0035 seconds = 185.33 fps
+[Sat Apr  7 18:14:38 2018] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+195 frames in 1.0006 seconds = 194.86 fps
+[Sat Apr  7 18:14:39 2018] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+190 frames in 1.0041 seconds = 189.22 fps
+[Sat Apr  7 18:14:40 2018] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+190 frames in 1.0039 seconds = 189.24 fps
+[Sat Apr  7 18:14:41 2018] INFO: Keys: tab = toggle mouse, AWSD = move camera, Shift = fast mode, Esc = quit.
+154 frames in 1.0020 seconds = 153.68 fps

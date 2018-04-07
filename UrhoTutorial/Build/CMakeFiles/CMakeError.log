@@ -1,0 +1,94 @@
+Performing C SOURCE FILE Test HAVE_XINPUT_GAMEPAD_EX failed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_74c33.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:26 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_74c33.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_74c33.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_74c33.dir\Release\cmTC_74c33.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_74c33.dir\Release\cmTC_74c33.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D HAVE_XINPUT_GAMEPAD_EX /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_74c33.dir\Release\\" /Fd"cmTC_74c33.dir\Release\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\src.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D HAVE_XINPUT_GAMEPAD_EX /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_74c33.dir\Release\\" /Fd"cmTC_74c33.dir\Release\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\src.c
+  src.c
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winnt.h(154): fatal error C1189: #error:  "No Target Architecture" [C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_74c33.vcxproj]
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_74c33.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_74c33.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winnt.h(154): fatal error C1189: #error:  "No Target Architecture" [C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_74c33.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.20
+
+Source file was:
+
+#include <xinput.h>
+
+int main()
+{
+   (void)sizeof(((XINPUT_GAMEPAD_EX *)0)->wButtons);
+   return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_XINPUT_STATE_EX failed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_219a5.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:27 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_219a5.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_219a5.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_219a5.dir\Release\cmTC_219a5.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_219a5.dir\Release\cmTC_219a5.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D HAVE_XINPUT_STATE_EX /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_219a5.dir\Release\\" /Fd"cmTC_219a5.dir\Release\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\src.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D HAVE_XINPUT_STATE_EX /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_219a5.dir\Release\\" /Fd"cmTC_219a5.dir\Release\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\src.c
+  src.c
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winnt.h(154): fatal error C1189: #error:  "No Target Architecture" [C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_219a5.vcxproj]
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_219a5.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_219a5.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\winnt.h(154): fatal error C1189: #error:  "No Target Architecture" [C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_219a5.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:01.29
+
+Source file was:
+
+#include <xinput.h>
+
+int main()
+{
+   (void)sizeof(((XINPUT_STATE_EX *)0)->dwPacketNumber);
+   return 0;
+}
+

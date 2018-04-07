@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\CMakeFiles\CMakeTmp\testCCompiler.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3C07F291-FAA5-3FD9-9B48-9B5AB5FFEE39}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

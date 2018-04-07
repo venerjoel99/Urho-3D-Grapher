@@ -1,0 +1,4 @@
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/Tutorial.dir
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/INSTALL.dir
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/ZERO_CHECK.dir

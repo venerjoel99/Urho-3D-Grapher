@@ -1,0 +1,2 @@
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_ce7c0.dir
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/CMakeFiles/CMakeTmp/CMakeFiles/ALL_BUILD.dir

@@ -1,0 +1,58 @@
+# CMake generation dependency list for this directory.
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/CMakeLists.txt
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/3.11.0/CMakeSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/3.11.0/CMakeCCompiler.cmake
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/3.11.0/CMakeCXXCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC.cmake
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/3.11.0/CMakeRCCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/CMake/Modules/UrhoCommon.cmake
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/CMake/Modules/CheckHost.cmake
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/CMake/Modules/CheckCompilerToolchain.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeDependentOption.cmake
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/CMake/Modules/FindUrho3D.cmake
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/CMake/Modules/CheckUrhoLibrary.cpp
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/FindPackageMessage.cmake
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/CMake/Modules/FindDirectX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckStructHasMember.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckCSourceCompiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cxx.in
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cxx.in
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cxx.in
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cxx.in
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cxx.in
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cxx.in
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cxx.in
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cxx.in
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cxx.in
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cxx.in
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeConfigurableFile.in
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CheckIncludeFiles/HAVE_XINPUT_H.c
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeParseArguments.cmake
+C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/CMake/Modules/GenerateExportHeader.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.11/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake

@@ -1,0 +1,419 @@
+Determining if the include file audioclient.h exists passed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_6dd4a.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:46:57 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_6dd4a.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_6dd4a.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_6dd4a.dir\Release\cmTC_6dd4a.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_6dd4a.dir\Release\cmTC_6dd4a.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6dd4a.dir\Release\\" /Fd"cmTC_6dd4a.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6dd4a.dir\Release\\" /Fd"cmTC_6dd4a.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_6dd4a.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_6dd4a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_6dd4a.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_6dd4a.dir\Release\CheckIncludeFile.obj
+  cmTC_6dd4a.vcxproj -> C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_6dd4a.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_6dd4a.dir\Release\cmTC_6dd4a.tlog\unsuccessfulbuild".
+  Touching "cmTC_6dd4a.dir\Release\cmTC_6dd4a.tlog\cmTC_6dd4a.lastbuildstate".
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_6dd4a.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.18
+
+
+Determining if the include file d3dcompiler.h exists passed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_a3ed3.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:00 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_a3ed3.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_a3ed3.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_a3ed3.dir\Release\cmTC_a3ed3.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_a3ed3.dir\Release\cmTC_a3ed3.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a3ed3.dir\Release\\" /Fd"cmTC_a3ed3.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_a3ed3.dir\Release\\" /Fd"cmTC_a3ed3.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_a3ed3.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_a3ed3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_a3ed3.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_a3ed3.dir\Release\CheckIncludeFile.obj
+  cmTC_a3ed3.vcxproj -> C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_a3ed3.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_a3ed3.dir\Release\cmTC_a3ed3.tlog\unsuccessfulbuild".
+  Touching "cmTC_a3ed3.dir\Release\cmTC_a3ed3.tlog\cmTC_a3ed3.lastbuildstate".
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_a3ed3.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.02
+
+
+Determining if the include file d3d9.h exists passed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_e188d.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:02 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_e188d.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e188d.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_e188d.dir\Release\cmTC_e188d.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e188d.dir\Release\cmTC_e188d.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_e188d.dir\Release\\" /Fd"cmTC_e188d.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_e188d.dir\Release\\" /Fd"cmTC_e188d.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_e188d.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_e188d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_e188d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_e188d.dir\Release\CheckIncludeFile.obj
+  cmTC_e188d.vcxproj -> C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_e188d.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_e188d.dir\Release\cmTC_e188d.tlog\unsuccessfulbuild".
+  Touching "cmTC_e188d.dir\Release\cmTC_e188d.tlog\cmTC_e188d.lastbuildstate".
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_e188d.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.13
+
+
+Determining if the include file d3d11.h exists passed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_6322b.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:05 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_6322b.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_6322b.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_6322b.dir\Release\cmTC_6322b.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_6322b.dir\Release\cmTC_6322b.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6322b.dir\Release\\" /Fd"cmTC_6322b.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_6322b.dir\Release\\" /Fd"cmTC_6322b.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_6322b.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_6322b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_6322b.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_6322b.dir\Release\CheckIncludeFile.obj
+  cmTC_6322b.vcxproj -> C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_6322b.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_6322b.dir\Release\cmTC_6322b.tlog\unsuccessfulbuild".
+  Touching "cmTC_6322b.dir\Release\cmTC_6322b.tlog\cmTC_6322b.lastbuildstate".
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_6322b.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.14
+
+
+Determining if the include file ddraw.h exists passed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_32e3c.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:07 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_32e3c.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_32e3c.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_32e3c.dir\Release\cmTC_32e3c.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_32e3c.dir\Release\cmTC_32e3c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_32e3c.dir\Release\\" /Fd"cmTC_32e3c.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_32e3c.dir\Release\\" /Fd"cmTC_32e3c.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_32e3c.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_32e3c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_32e3c.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_32e3c.dir\Release\CheckIncludeFile.obj
+  cmTC_32e3c.vcxproj -> C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_32e3c.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_32e3c.dir\Release\cmTC_32e3c.tlog\unsuccessfulbuild".
+  Touching "cmTC_32e3c.dir\Release\cmTC_32e3c.tlog\cmTC_32e3c.lastbuildstate".
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_32e3c.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.96
+
+
+Determining if the include file dsound.h exists passed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_f0d64.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:10 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_f0d64.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_f0d64.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_f0d64.dir\Release\cmTC_f0d64.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_f0d64.dir\Release\cmTC_f0d64.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f0d64.dir\Release\\" /Fd"cmTC_f0d64.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f0d64.dir\Release\\" /Fd"cmTC_f0d64.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_f0d64.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_f0d64.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_f0d64.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_f0d64.dir\Release\CheckIncludeFile.obj
+  cmTC_f0d64.vcxproj -> C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_f0d64.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_f0d64.dir\Release\cmTC_f0d64.tlog\unsuccessfulbuild".
+  Touching "cmTC_f0d64.dir\Release\cmTC_f0d64.tlog\cmTC_f0d64.lastbuildstate".
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_f0d64.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.10
+
+
+Determining if the include file dinput.h exists passed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_f71d9.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:12 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_f71d9.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_f71d9.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_f71d9.dir\Release\cmTC_f71d9.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_f71d9.dir\Release\cmTC_f71d9.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f71d9.dir\Release\\" /Fd"cmTC_f71d9.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_f71d9.dir\Release\\" /Fd"cmTC_f71d9.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  CheckIncludeFile.cxx
+  
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_f71d9.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_f71d9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_f71d9.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_f71d9.dir\Release\CheckIncludeFile.obj
+  cmTC_f71d9.vcxproj -> C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_f71d9.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_f71d9.dir\Release\cmTC_f71d9.tlog\unsuccessfulbuild".
+  Touching "cmTC_f71d9.dir\Release\cmTC_f71d9.tlog\cmTC_f71d9.lastbuildstate".
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_f71d9.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.67
+
+
+Determining if the include file dxgi.h exists passed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_c162b.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:16 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_c162b.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_c162b.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_c162b.dir\Release\cmTC_c162b.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_c162b.dir\Release\cmTC_c162b.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c162b.dir\Release\\" /Fd"cmTC_c162b.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c162b.dir\Release\\" /Fd"cmTC_c162b.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_c162b.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_c162b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_c162b.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_c162b.dir\Release\CheckIncludeFile.obj
+  cmTC_c162b.vcxproj -> C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_c162b.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_c162b.dir\Release\cmTC_c162b.tlog\unsuccessfulbuild".
+  Touching "cmTC_c162b.dir\Release\cmTC_c162b.tlog\cmTC_c162b.lastbuildstate".
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_c162b.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.10
+
+
+Determining if the include file mmdeviceapi.h exists passed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_e5c37.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:18 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_e5c37.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e5c37.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_e5c37.dir\Release\cmTC_e5c37.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e5c37.dir\Release\cmTC_e5c37.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_e5c37.dir\Release\\" /Fd"cmTC_e5c37.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_e5c37.dir\Release\\" /Fd"cmTC_e5c37.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_e5c37.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_e5c37.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_e5c37.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_e5c37.dir\Release\CheckIncludeFile.obj
+  cmTC_e5c37.vcxproj -> C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_e5c37.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_e5c37.dir\Release\cmTC_e5c37.tlog\unsuccessfulbuild".
+  Touching "cmTC_e5c37.dir\Release\cmTC_e5c37.tlog\cmTC_e5c37.lastbuildstate".
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_e5c37.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.07
+
+
+Determining if the include file xaudio2.h exists passed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_087c1.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:21 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_087c1.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_087c1.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_087c1.dir\Release\cmTC_087c1.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_087c1.dir\Release\cmTC_087c1.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_087c1.dir\Release\\" /Fd"cmTC_087c1.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_087c1.dir\Release\\" /Fd"cmTC_087c1.dir\Release\vc141.pdb" /Gd /TP /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx
+  CheckIncludeFile.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_087c1.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_087c1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_087c1.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_087c1.dir\Release\CheckIncludeFile.obj
+  cmTC_087c1.vcxproj -> C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_087c1.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_087c1.dir\Release\cmTC_087c1.tlog\unsuccessfulbuild".
+  Touching "cmTC_087c1.dir\Release\cmTC_087c1.tlog\cmTC_087c1.lastbuildstate".
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_087c1.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.04
+
+
+Determining if files windows.h;xinput.h exist passed with the following output:
+Change Dir: C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_471d8.vcxproj" "/p:Configuration=Release" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine version 15.3.409.57025 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 4/4/2018 2:47:23 PM.
+Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_471d8.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_471d8.dir\Release\".
+  Creating directory "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\".
+  Creating directory "cmTC_471d8.dir\Release\cmTC_471d8.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_471d8.dir\Release\cmTC_471d8.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_471d8.dir\Release\\" /Fd"cmTC_471d8.dir\Release\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CheckIncludeFiles\HAVE_XINPUT_H.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.11.25508.2 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /W3 /WX- /diagnostics:classic /O2 /Ob2 /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D "CMAKE_INTDIR=\"Release\"" /D _MBCS /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_471d8.dir\Release\\" /Fd"cmTC_471d8.dir\Release\vc141.pdb" /Gd /TC /analyze- /errorReport:queue C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CheckIncludeFiles\HAVE_XINPUT_H.c
+  HAVE_XINPUT_H.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_471d8.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_471d8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/84ven/Desktop/UnityProjects/UrhoTutorial/Build/CMakeFiles/CMakeTmp/Release/cmTC_471d8.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_471d8.dir\Release\HAVE_XINPUT_H.obj
+  cmTC_471d8.vcxproj -> C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\Release\cmTC_471d8.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_471d8.dir\Release\cmTC_471d8.tlog\unsuccessfulbuild".
+  Touching "cmTC_471d8.dir\Release\cmTC_471d8.tlog\cmTC_471d8.lastbuildstate".
+Done Building Project "C:\Users\84ven\Desktop\UnityProjects\UrhoTutorial\Build\CMakeFiles\CMakeTmp\cmTC_471d8.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.96
+
+
